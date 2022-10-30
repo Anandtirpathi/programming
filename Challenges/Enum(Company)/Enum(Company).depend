@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641221234 source:c:\users\asus\documents\school work\c program\enum(company)\main.c
+	<stdio.h>
+	<stdlib.h>
+
